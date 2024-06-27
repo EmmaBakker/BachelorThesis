@@ -1,0 +1,1 @@
+{"seed": 3344, "language": "HI", "min_frequency": 24, "batch_size": 8, "train_data": "HI_train_set.json", "validation_data": "HI_val_set.json"}

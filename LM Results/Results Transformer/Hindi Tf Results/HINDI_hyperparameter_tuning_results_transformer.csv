@@ -1,0 +1,3 @@
+Model Type,Hyperparameters,Train Loss,Valid Loss,Train Perplexity,Valid Perplexity,Epochs,Learning Rate,Weights
+Transformer,"{'embed': {'n_embeddings': 10036, 'embedding_dim': 400, 'sparse': False, 'padding_idx': 0}, 'tf': {'in_size': 400, 'fc_size': 1024, 'n_layers': 1, 'h': 4, 'max_len': 102}, 'cuda': True, 'lr': 0.0001}",3.5218543676228347,3.595319139186621,33.84713533697745,36.42732351941696,23,0.0001,9501060
+Transformer,"{'embed': {'n_embeddings': 10036, 'embedding_dim': 400, 'sparse': False, 'padding_idx': 0}, 'tf': {'in_size': 400, 'fc_size': 1024, 'n_layers': 2, 'h': 4, 'max_len': 102}, 'cuda': True, 'lr': 0.0001}",3.4637222266198036,3.5388714270448207,31.93562719698456,34.42804269961488,33,0.0001,10963284

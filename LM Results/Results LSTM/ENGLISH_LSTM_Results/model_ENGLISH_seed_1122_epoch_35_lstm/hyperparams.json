@@ -1,0 +1,1 @@
+{"hidden_dim": 485, "embedding_dim": 400, "n_lstm_layers": 1, "lr": 0.1, "output_size": 10218}

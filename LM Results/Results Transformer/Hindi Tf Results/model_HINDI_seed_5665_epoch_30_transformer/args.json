@@ -1,0 +1,1 @@
+{"seed": 5665, "language": "HINDI", "min_frequency": 24, "batch_size": 8, "train_data": "HI_train_set.json", "validation_data": "HI_val_set.json", "results_dir": "HINDI_Tf_Results"}

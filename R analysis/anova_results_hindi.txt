@@ -1,0 +1,90 @@
+Processing dependent variable: FFD 
+
+Model Formulas for FFD :
+Baseline Model:  FFD ~ word_len + sent_id_and_idx + word_idx + (1 | participant) + (1 | word) 
+LSTM Model:  FFD ~ word_len + sent_id_and_idx + word_idx + (1 | participant) + (1 | word) + lstm_surprisal + lstm_entropy 
+Transformer Model:  FFD ~ word_len + sent_id_and_idx + word_idx + (1 | participant) + (1 | word) + tf_surprisal + tf_entropy 
+
+ANOVA Comparisons for LSTM:
+Data: merged_df
+Models:
+baseline_model: as.formula(baseline_formula)
+lstm_model: as.formula(lstm_formula)
+               npar   AIC   BIC logLik deviance  Chisq Df Pr(>Chisq)
+baseline_model    7 23932 23989 -11959    23918                     
+lstm_model        9 23934 24007 -11958    23916 2.1902  2     0.3345
+
+ANOVA Comparisons for Transformer:
+Data: merged_df
+Models:
+baseline_model: as.formula(baseline_formula)
+transformer_model: as.formula(transformer_formula)
+                  npar   AIC   BIC logLik deviance  Chisq Df Pr(>Chisq)  
+baseline_model       7 23932 23989 -11959    23918                       
+transformer_model    9 23929 24002 -11956    23911 6.8058  2    0.03328 *
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+
+--------------------------------------------
+
+Processing dependent variable: TFT 
+
+Model Formulas for TFT :
+Baseline Model:  TFT ~ word_len + sent_id_and_idx + word_idx + (1 | participant) + (1 | word) 
+LSTM Model:  TFT ~ word_len + sent_id_and_idx + word_idx + (1 | participant) + (1 | word) + lstm_surprisal + lstm_entropy 
+Transformer Model:  TFT ~ word_len + sent_id_and_idx + word_idx + (1 | participant) + (1 | word) + tf_surprisal + tf_entropy 
+
+ANOVA Comparisons for LSTM:
+Data: merged_df
+Models:
+baseline_model: as.formula(baseline_formula)
+lstm_model: as.formula(lstm_formula)
+               npar   AIC   BIC logLik deviance  Chisq Df Pr(>Chisq)    
+baseline_model    7 37375 37432 -18681    37361                         
+lstm_model        9 37361 37435 -18672    37343 17.784  2  0.0001375 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+ANOVA Comparisons for Transformer:
+Data: merged_df
+Models:
+baseline_model: as.formula(baseline_formula)
+transformer_model: as.formula(transformer_formula)
+                  npar   AIC   BIC logLik deviance  Chisq Df Pr(>Chisq)    
+baseline_model       7 37375 37432 -18681    37361                         
+transformer_model    9 37348 37422 -18665    37330 30.965  2  1.888e-07 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+
+--------------------------------------------
+
+Processing dependent variable: FPRT 
+
+Model Formulas for FPRT :
+Baseline Model:  FPRT ~ word_len + sent_id_and_idx + word_idx + (1 | participant) + (1 | word) 
+LSTM Model:  FPRT ~ word_len + sent_id_and_idx + word_idx + (1 | participant) + (1 | word) + lstm_surprisal + lstm_entropy 
+Transformer Model:  FPRT ~ word_len + sent_id_and_idx + word_idx + (1 | participant) + (1 | word) + tf_surprisal + tf_entropy 
+
+ANOVA Comparisons for LSTM:
+Data: merged_df
+Models:
+baseline_model: as.formula(baseline_formula)
+lstm_model: as.formula(lstm_formula)
+               npar   AIC   BIC logLik deviance  Chisq Df Pr(>Chisq)
+baseline_model    7 32505 32563 -16246    32491                     
+lstm_model        9 32508 32581 -16245    32490 1.5286  2     0.4657
+
+ANOVA Comparisons for Transformer:
+Data: merged_df
+Models:
+baseline_model: as.formula(baseline_formula)
+transformer_model: as.formula(transformer_formula)
+                  npar   AIC   BIC logLik deviance  Chisq Df Pr(>Chisq)
+baseline_model       7 32505 32563 -16246    32491                     
+transformer_model    9 32505 32579 -16244    32487 4.2977  2     0.1166
+
+
+--------------------------------------------
+

@@ -1,0 +1,224 @@
+Data is a list.
+Error: Item 2152 is too long with 413 words.
+Error: Item 2539 is too long with 312 words.
+Error: Item 2938 is too long with 194 words.
+Error: Empty list found at position 4899.
+Error: Item 8498 is too long with 239 words.
+Error: Item 11112 is too long with 120 words.
+Error: Empty list found at position 20672.
+Error: Empty list found at position 20966.
+Error: Item 22821 is too long with 103 words.
+Error: Item 24042 is too long with 119 words.
+Error: Item 24984 is too long with 158 words.
+Error: Item 25923 is too long with 108 words.
+Error: Item 26695 is too long with 105 words.
+Error: Item 27151 is too long with 155 words.
+Error: Item 27543 is too long with 143 words.
+Error: Empty list found at position 29048.
+Error: Item 30068 is too long with 148 words.
+Error: Empty list found at position 32032.
+Error: Empty list found at position 32290.
+Error: Item 33537 is too long with 101 words.
+Error: Item 34604 is too long with 142 words.
+Error: Empty list found at position 35148.
+Error: Item 38041 is too long with 102 words.
+Error: Empty list found at position 38060.
+Error: Item 38118 is too long with 113 words.
+Error: Item 38432 is too long with 126 words.
+Error: Empty list found at position 39735.
+Error: Item 45291 is too long with 113 words.
+Error: Item 45471 is too long with 107 words.
+Error: Item 46362 is too long with 139 words.
+Error: Item 46915 is too long with 108 words.
+Error: Item 46980 is too long with 112 words.
+Error: Item 47947 is too long with 122 words.
+Error: Item 49157 is too long with 104 words.
+Error: Item 49604 is too long with 161 words.
+Error: Item 51838 is too long with 114 words.
+Error: Item 53232 is too long with 129 words.
+Error: Item 53268 is too long with 120 words.
+Error: Item 53467 is too long with 431 words.
+Error: Item 54978 is too long with 161 words.
+Error: Item 55834 is too long with 105 words.
+Error: Item 56293 is too long with 120 words.
+Error: Item 58314 is too long with 440 words.
+Error: Item 62123 is too long with 113 words.
+Error: Empty list found at position 63731.
+Error: Item 64892 is too long with 125 words.
+Error: Empty list found at position 65233.
+Error: Item 66328 is too long with 210 words.
+Error: Item 66540 is too long with 203 words.
+Error: Empty list found at position 71844.
+Error: Item 77462 is too long with 236 words.
+Error: Empty list found at position 77937.
+Error: Empty list found at position 79338.
+Error: Empty list found at position 81019.
+Error: Empty list found at position 81109.
+Error: Item 81147 is too long with 147 words.
+Error: Item 81958 is too long with 102 words.
+Error: Empty list found at position 83659.
+Error: Item 84769 is too long with 168 words.
+Error: Item 85723 is too long with 164 words.
+Error: Item 87060 is too long with 162 words.
+Error: Empty list found at position 87966.
+Error: Item 88418 is too long with 132 words.
+Error: Item 88772 is too long with 118 words.
+Error: Item 89551 is too long with 106 words.
+Error: Empty list found at position 92480.
+Error: Empty list found at position 93572.
+Error: Item 96138 is too long with 116 words.
+Error: Empty list found at position 96481.
+Error: Empty list found at position 97617.
+Error: Item 97898 is too long with 167 words.
+Error: Item 99075 is too long with 106 words.
+Error: Empty list found at position 99415.
+Error: Empty list found at position 102125.
+Error: Item 103590 is too long with 104 words.
+Error: Item 107315 is too long with 151 words.
+Error: Item 108678 is too long with 113 words.
+Error: Item 108723 is too long with 170 words.
+Error: Empty list found at position 109764.
+Error: Item 111199 is too long with 135 words.
+Error: Empty list found at position 112473.
+Error: Empty list found at position 113158.
+Error: Empty list found at position 114813.
+Error: Item 115365 is too long with 128 words.
+Error: Item 115698 is too long with 141 words.
+Error: Empty list found at position 116187.
+Error: Item 116733 is too long with 109 words.
+Error: Item 118163 is too long with 142 words.
+Error: Empty list found at position 118490.
+Error: Item 120903 is too long with 137 words.
+Error: Item 120993 is too long with 287 words.
+Error: Item 121761 is too long with 101 words.
+Error: Empty list found at position 121879.
+Error: Empty list found at position 123578.
+Error: Item 123824 is too long with 112 words.
+Error: Item 126073 is too long with 4000 words.
+Error: Item 130512 is too long with 104 words.
+Error: Item 130738 is too long with 136 words.
+Error: Item 131484 is too long with 101 words.
+Error: Item 131906 is too long with 106 words.
+Error: Item 134032 is too long with 163 words.
+Error: Empty list found at position 134139.
+Error: Empty list found at position 134159.
+Error: Item 137757 is too long with 146 words.
+Error: Item 137942 is too long with 159 words.
+Error: Item 138839 is too long with 125 words.
+Error: Empty list found at position 139008.
+Error: Empty list found at position 139248.
+Error: Item 143933 is too long with 117 words.
+Error: Item 145694 is too long with 142 words.
+Error: Item 146154 is too long with 132 words.
+Error: Item 147475 is too long with 145 words.
+Error: Empty list found at position 147572.
+Error: Empty list found at position 148039.
+Error: Empty list found at position 148148.
+Error: Empty list found at position 149743.
+Error: Item 152616 is too long with 307 words.
+Error: Item 153640 is too long with 166 words.
+Error: Empty list found at position 154742.
+Error: Item 155949 is too long with 152 words.
+Error: Empty list found at position 156430.
+Error: Empty list found at position 158855.
+Error: Item 159756 is too long with 104 words.
+Error: Item 162042 is too long with 123 words.
+Error: Item 165412 is too long with 106 words.
+Error: Empty list found at position 167750.
+Error: Item 168140 is too long with 113 words.
+Error: Item 168300 is too long with 111 words.
+Error: Item 170521 is too long with 133 words.
+Error: Item 170586 is too long with 102 words.
+Error: Item 172569 is too long with 116 words.
+Error: Item 173474 is too long with 117 words.
+Error: Item 173866 is too long with 144 words.
+Error: Item 174172 is too long with 120 words.
+Error: Item 174485 is too long with 140 words.
+Error: Empty list found at position 177889.
+Error: Item 179364 is too long with 365 words.
+Error: Empty list found at position 182310.
+Error: Empty list found at position 182315.
+Error: Empty list found at position 182864.
+Error: Item 183429 is too long with 117 words.
+Error: Empty list found at position 184422.
+Error: Item 189007 is too long with 201 words.
+Error: Item 189014 is too long with 101 words.
+Error: Empty list found at position 189517.
+Error: Item 189597 is too long with 146 words.
+Error: Item 190953 is too long with 104 words.
+Error: Item 191574 is too long with 131 words.
+Error: Item 191990 is too long with 119 words.
+Error: Item 192758 is too long with 111 words.
+Error: Item 193409 is too long with 125 words.
+Error: Item 193847 is too long with 110 words.
+Error: Empty list found at position 194663.
+Error: Empty list found at position 194740.
+Error: Item 195965 is too long with 135 words.
+Error: Item 197887 is too long with 116 words.
+Error: Empty list found at position 198596.
+Error: Item 202305 is too long with 118 words.
+Error: Item 202566 is too long with 103 words.
+Error: Empty list found at position 204685.
+Error: Item 206103 is too long with 110 words.
+Error: Item 206509 is too long with 102 words.
+Error: Empty list found at position 206580.
+Error: Empty list found at position 207680.
+Error: Item 211675 is too long with 317 words.
+Error: Item 213704 is too long with 120 words.
+Error: Empty list found at position 216181.
+Error: Empty list found at position 217775.
+Error: Empty list found at position 218241.
+Error: Item 223166 is too long with 117 words.
+Error: Empty list found at position 223455.
+Error: Empty list found at position 223470.
+Error: Item 223623 is too long with 110 words.
+Error: Item 224847 is too long with 163 words.
+Error: Item 225896 is too long with 107 words.
+Error: Empty list found at position 227832.
+Error: Item 230363 is too long with 141 words.
+Error: Empty list found at position 231427.
+Error: Empty list found at position 231797.
+Error: Empty list found at position 234716.
+Error: Empty list found at position 235625.
+Error: Item 236840 is too long with 168 words.
+Error: Item 240128 is too long with 104 words.
+Error: Item 241259 is too long with 115 words.
+Error: Item 241414 is too long with 128 words.
+Error: Item 241501 is too long with 206 words.
+Error: Empty list found at position 241560.
+Error: Empty list found at position 243056.
+Error: Empty list found at position 243478.
+Error: Empty list found at position 245488.
+Error: Empty list found at position 245492.
+Error: Item 245828 is too long with 132 words.
+Error: Item 248063 is too long with 142 words.
+Error: Empty list found at position 248283.
+Error: Item 249788 is too long with 148 words.
+Error: Item 250453 is too long with 194 words.
+Error: Item 257148 is too long with 103 words.
+Error: Item 257821 is too long with 112 words.
+Error: Item 259450 is too long with 128 words.
+Error: Item 260707 is too long with 112 words.
+Error: Item 262095 is too long with 101 words.
+Error: Item 262619 is too long with 138 words.
+Error: Empty list found at position 263420.
+Error: Item 265389 is too long with 136 words.
+Error: Item 266236 is too long with 113 words.
+Error: Item 266244 is too long with 109 words.
+Error: Item 267123 is too long with 151 words.
+Error: Empty list found at position 267938.
+Error: Empty list found at position 270600.
+Error: Empty list found at position 273107.
+Error: Item 273604 is too long with 101 words.
+Error: Item 274601 is too long with 268 words.
+Error: Item 275182 is too long with 117 words.
+Error: Item 279187 is too long with 105 words.
+Error: Item 282369 is too long with 184 words.
+Error: Item 282452 is too long with 101 words.
+Error: Item 285597 is too long with 115 words.
+Error: Item 286775 is too long with 122 words.
+Error: Item 287212 is too long with 153 words.
+Error: Item 287717 is too long with 114 words.
+Error: Item 288592 is too long with 145 words.
+Initial number of sentences: 289101
+Final number of sentences after cleaning: 288880

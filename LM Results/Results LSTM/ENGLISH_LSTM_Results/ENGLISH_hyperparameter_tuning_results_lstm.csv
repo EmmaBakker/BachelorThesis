@@ -1,0 +1,5 @@
+Model Type,Hyperparameters,Train Loss,Valid Loss,Train Perplexity,Valid Perplexity,Epochs,Learning Rate,Weights
+LSTM,"{'hidden_dim': 542, 'embedding_dim': 400, 'n_lstm_layers': 2, 'lr': 0.1, 'output_size': 10218}",4.5574896418546516,4.074972615021479,95.34383198972114,58.8488689912674,49,0.1,14036614
+LSTM,"{'hidden_dim': 485, 'embedding_dim': 400, 'n_lstm_layers': 2, 'lr': 0.1, 'output_size': 10218}",4.5219618726044075,4.050455475342106,92.01594457261567,57.423606126508716,41,0.1,12659608
+LSTM,"{'hidden_dim': 542, 'embedding_dim': 400, 'n_lstm_layers': 1, 'lr': 0.1, 'output_size': 10218}",4.53496879001662,4.060757428713037,93.22060584546291,58.018239120869055,38,0.1,11682166
+LSTM,"{'hidden_dim': 485, 'embedding_dim': 400, 'n_lstm_layers': 1, 'lr': 0.1, 'output_size': 10218}",4.518760263078003,4.042885273257572,91.72181654068716,56.99053909436349,36,0.1,10773928

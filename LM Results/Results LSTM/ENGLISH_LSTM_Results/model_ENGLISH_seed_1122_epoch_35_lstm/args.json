@@ -1,0 +1,1 @@
+{"seed": 1122, "language": "ENGLISH", "min_frequency": 24, "batch_size": 8, "train_data": "EN_train_set.json", "validation_data": "EN_val_set.json", "results_dir": "ENGLISH_LSTM_Results"}

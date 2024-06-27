@@ -1,0 +1,855 @@
+Training on file HI_train_set.json
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.161773 GB
+Cached:   0.167969 GB
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.288338 GB
+Cached:   0.484375 GB
+Epoch: 1 - Train Loss: 5.9440 - Train Perplexity: 381.4715 - Valid Loss: 4.6757 - Valid Perplexity: 107.3104 - Time: 193.71s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.288338 GB
+Cached:   0.466797 GB
+Epoch: 2 - Train Loss: 5.4417 - Train Perplexity: 230.8322 - Valid Loss: 4.4431 - Valid Perplexity: 85.0343 - Time: 196.41s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.288338 GB
+Cached:   0.466797 GB
+Epoch: 3 - Train Loss: 5.3056 - Train Perplexity: 201.4577 - Valid Loss: 4.3572 - Valid Perplexity: 78.0365 - Time: 195.87s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.288338 GB
+Cached:   0.466797 GB
+Epoch: 4 - Train Loss: 5.2063 - Train Perplexity: 182.4268 - Valid Loss: 4.2763 - Valid Perplexity: 71.9764 - Time: 196.16s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.288338 GB
+Cached:   0.466797 GB
+Epoch: 5 - Train Loss: 5.1295 - Train Perplexity: 168.9358 - Valid Loss: 4.2351 - Valid Perplexity: 69.0709 - Time: 196.54s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.288338 GB
+Cached:   0.466797 GB
+Epoch: 6 - Train Loss: 5.0696 - Train Perplexity: 159.1105 - Valid Loss: 4.1972 - Valid Perplexity: 66.4975 - Time: 198.08s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.288338 GB
+Cached:   0.466797 GB
+Epoch: 7 - Train Loss: 5.0166 - Train Perplexity: 150.8969 - Valid Loss: 4.1604 - Valid Perplexity: 64.0977 - Time: 196.69s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.288338 GB
+Cached:   0.466797 GB
+Epoch: 8 - Train Loss: 4.9689 - Train Perplexity: 143.8741 - Valid Loss: 4.1283 - Valid Perplexity: 62.0743 - Time: 196.77s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.288338 GB
+Cached:   0.466797 GB
+Epoch: 9 - Train Loss: 4.9255 - Train Perplexity: 137.7642 - Valid Loss: 4.0996 - Valid Perplexity: 60.3159 - Time: 197.61s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.288338 GB
+Cached:   0.466797 GB
+Epoch: 10 - Train Loss: 4.8860 - Train Perplexity: 132.4236 - Valid Loss: 4.0761 - Valid Perplexity: 58.9154 - Time: 196.59s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.288338 GB
+Cached:   0.466797 GB
+Epoch: 11 - Train Loss: 4.8495 - Train Perplexity: 127.6825 - Valid Loss: 4.0535 - Valid Perplexity: 57.5997 - Time: 197.29s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.288338 GB
+Cached:   0.466797 GB
+Epoch: 12 - Train Loss: 4.8149 - Train Perplexity: 123.3338 - Valid Loss: 4.0282 - Valid Perplexity: 56.1577 - Time: 196.69s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.288338 GB
+Cached:   0.466797 GB
+Epoch: 13 - Train Loss: 4.7812 - Train Perplexity: 119.2474 - Valid Loss: 4.0047 - Valid Perplexity: 54.8538 - Time: 197.06s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.288338 GB
+Cached:   0.466797 GB
+Epoch: 14 - Train Loss: 4.7482 - Train Perplexity: 115.3808 - Valid Loss: 3.9826 - Valid Perplexity: 53.6588 - Time: 199.36s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.288338 GB
+Cached:   0.466797 GB
+Epoch: 15 - Train Loss: 4.7162 - Train Perplexity: 111.7436 - Valid Loss: 3.9580 - Valid Perplexity: 52.3500 - Time: 204.43s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.288338 GB
+Cached:   0.466797 GB
+Epoch: 16 - Train Loss: 4.6851 - Train Perplexity: 108.3189 - Valid Loss: 3.9363 - Valid Perplexity: 51.2274 - Time: 196.84s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.288338 GB
+Cached:   0.466797 GB
+Epoch: 17 - Train Loss: 4.6553 - Train Perplexity: 105.1384 - Valid Loss: 3.9172 - Valid Perplexity: 50.2573 - Time: 196.62s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.288338 GB
+Cached:   0.466797 GB
+Epoch: 18 - Train Loss: 4.6270 - Train Perplexity: 102.2108 - Valid Loss: 3.8997 - Valid Perplexity: 49.3862 - Time: 196.00s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.288338 GB
+Cached:   0.466797 GB
+Epoch: 19 - Train Loss: 4.6004 - Train Perplexity: 99.5241 - Valid Loss: 3.8837 - Valid Perplexity: 48.6036 - Time: 195.76s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.288338 GB
+Cached:   0.466797 GB
+Epoch: 20 - Train Loss: 4.5752 - Train Perplexity: 97.0492 - Valid Loss: 3.8688 - Valid Perplexity: 47.8848 - Time: 195.99s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.288338 GB
+Cached:   0.466797 GB
+Epoch: 21 - Train Loss: 4.5513 - Train Perplexity: 94.7592 - Valid Loss: 3.8550 - Valid Perplexity: 47.2282 - Time: 196.54s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.288338 GB
+Cached:   0.466797 GB
+Epoch: 22 - Train Loss: 4.5287 - Train Perplexity: 92.6356 - Valid Loss: 3.8415 - Valid Perplexity: 46.5937 - Time: 196.61s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.288338 GB
+Cached:   0.466797 GB
+Epoch: 23 - Train Loss: 4.5071 - Train Perplexity: 90.6617 - Valid Loss: 3.8304 - Valid Perplexity: 46.0828 - Time: 196.05s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.288338 GB
+Cached:   0.466797 GB
+Epoch: 24 - Train Loss: 4.4866 - Train Perplexity: 88.8213 - Valid Loss: 3.8200 - Valid Perplexity: 45.6051 - Time: 195.98s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.288338 GB
+Cached:   0.466797 GB
+Epoch: 25 - Train Loss: 4.4671 - Train Perplexity: 87.1015 - Valid Loss: 3.8095 - Valid Perplexity: 45.1290 - Time: 196.23s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.288338 GB
+Cached:   0.466797 GB
+Epoch: 26 - Train Loss: 4.4484 - Train Perplexity: 85.4908 - Valid Loss: 3.7996 - Valid Perplexity: 44.6825 - Time: 196.82s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.288338 GB
+Cached:   0.466797 GB
+Epoch: 27 - Train Loss: 4.4306 - Train Perplexity: 83.9778 - Valid Loss: 3.7899 - Valid Perplexity: 44.2508 - Time: 196.48s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.288338 GB
+Cached:   0.466797 GB
+Epoch: 28 - Train Loss: 4.4134 - Train Perplexity: 82.5500 - Valid Loss: 3.7812 - Valid Perplexity: 43.8689 - Time: 196.32s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.288338 GB
+Cached:   0.466797 GB
+Epoch: 29 - Train Loss: 4.3970 - Train Perplexity: 81.2048 - Valid Loss: 3.7734 - Valid Perplexity: 43.5261 - Time: 196.11s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.288338 GB
+Cached:   0.466797 GB
+Epoch: 30 - Train Loss: 4.3812 - Train Perplexity: 79.9333 - Valid Loss: 3.7661 - Valid Perplexity: 43.2103 - Time: 195.97s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.288338 GB
+Cached:   0.466797 GB
+Epoch: 31 - Train Loss: 4.3660 - Train Perplexity: 78.7266 - Valid Loss: 3.7592 - Valid Perplexity: 42.9136 - Time: 196.46s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.288338 GB
+Cached:   0.466797 GB
+Epoch: 32 - Train Loss: 4.3513 - Train Perplexity: 77.5796 - Valid Loss: 3.7531 - Valid Perplexity: 42.6512 - Time: 196.56s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.288338 GB
+Cached:   0.466797 GB
+Epoch: 33 - Train Loss: 4.3371 - Train Perplexity: 76.4892 - Valid Loss: 3.7471 - Valid Perplexity: 42.3969 - Time: 196.33s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.288338 GB
+Cached:   0.466797 GB
+Epoch: 34 - Train Loss: 4.3235 - Train Perplexity: 75.4508 - Valid Loss: 3.7415 - Valid Perplexity: 42.1624 - Time: 196.20s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.288338 GB
+Cached:   0.466797 GB
+Epoch: 35 - Train Loss: 4.3103 - Train Perplexity: 74.4598 - Valid Loss: 3.7364 - Valid Perplexity: 41.9478 - Time: 195.93s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.288338 GB
+Cached:   0.466797 GB
+Epoch: 36 - Train Loss: 4.2975 - Train Perplexity: 73.5126 - Valid Loss: 3.7315 - Valid Perplexity: 41.7437 - Time: 196.00s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.288338 GB
+Cached:   0.466797 GB
+Epoch: 37 - Train Loss: 4.2851 - Train Perplexity: 72.6066 - Valid Loss: 3.7271 - Valid Perplexity: 41.5571 - Time: 196.44s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.288338 GB
+Cached:   0.466797 GB
+Epoch: 38 - Train Loss: 4.2730 - Train Perplexity: 71.7367 - Valid Loss: 3.7230 - Valid Perplexity: 41.3879 - Time: 196.24s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.288338 GB
+Cached:   0.466797 GB
+Epoch: 39 - Train Loss: 4.2613 - Train Perplexity: 70.9021 - Valid Loss: 3.7189 - Valid Perplexity: 41.2195 - Time: 195.88s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.288338 GB
+Cached:   0.466797 GB
+Epoch: 40 - Train Loss: 4.2499 - Train Perplexity: 70.0996 - Valid Loss: 3.7151 - Valid Perplexity: 41.0639 - Time: 195.94s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.288338 GB
+Cached:   0.466797 GB
+Epoch: 41 - Train Loss: 4.2388 - Train Perplexity: 69.3268 - Valid Loss: 3.7115 - Valid Perplexity: 40.9159 - Time: 196.64s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.288338 GB
+Cached:   0.466797 GB
+Epoch: 42 - Train Loss: 4.2280 - Train Perplexity: 68.5809 - Valid Loss: 3.7081 - Valid Perplexity: 40.7778 - Time: 196.44s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.288338 GB
+Cached:   0.466797 GB
+Epoch: 43 - Train Loss: 4.2175 - Train Perplexity: 67.8605 - Valid Loss: 3.7050 - Valid Perplexity: 40.6498 - Time: 195.99s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.288338 GB
+Cached:   0.466797 GB
+Epoch: 44 - Train Loss: 4.2072 - Train Perplexity: 67.1651 - Valid Loss: 3.7022 - Valid Perplexity: 40.5365 - Time: 195.91s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.288338 GB
+Cached:   0.466797 GB
+Epoch: 45 - Train Loss: 4.1971 - Train Perplexity: 66.4923 - Valid Loss: 3.6996 - Valid Perplexity: 40.4298 - Time: 196.18s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.288338 GB
+Cached:   0.466797 GB
+Epoch: 46 - Train Loss: 4.1872 - Train Perplexity: 65.8410 - Valid Loss: 3.6973 - Valid Perplexity: 40.3370 - Time: 196.71s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.288338 GB
+Cached:   0.466797 GB
+Epoch: 47 - Train Loss: 4.1776 - Train Perplexity: 65.2099 - Valid Loss: 3.6953 - Valid Perplexity: 40.2591 - Time: 196.74s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.288338 GB
+Cached:   0.466797 GB
+Epoch: 48 - Train Loss: 4.1682 - Train Perplexity: 64.5982 - Valid Loss: 3.6939 - Valid Perplexity: 40.2020 - Time: 196.23s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.288338 GB
+Cached:   0.466797 GB
+Epoch: 49 - Train Loss: 4.1589 - Train Perplexity: 64.0022 - Valid Loss: 3.6919 - Valid Perplexity: 40.1215 - Time: 196.04s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.288338 GB
+Cached:   0.466797 GB
+Epoch: 50 - Train Loss: 4.1498 - Train Perplexity: 63.4232 - Valid Loss: 3.6908 - Valid Perplexity: 40.0776 - Time: 196.02s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.350597 GB
+Cached:   0.568359 GB
+Epoch: 1 - Train Loss: 5.5489 - Train Perplexity: 256.9637 - Valid Loss: 4.3995 - Valid Perplexity: 81.4134 - Time: 175.48s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.350597 GB
+Cached:   0.517578 GB
+Epoch: 2 - Train Loss: 5.1956 - Train Perplexity: 180.4779 - Valid Loss: 4.2473 - Valid Perplexity: 69.9187 - Time: 175.72s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.350597 GB
+Cached:   0.517578 GB
+Epoch: 3 - Train Loss: 5.0511 - Train Perplexity: 156.1883 - Valid Loss: 4.1586 - Valid Perplexity: 63.9793 - Time: 175.13s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.350597 GB
+Cached:   0.517578 GB
+Epoch: 4 - Train Loss: 4.9497 - Train Perplexity: 141.1261 - Valid Loss: 4.0934 - Valid Perplexity: 59.9440 - Time: 174.94s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.350597 GB
+Cached:   0.517578 GB
+Epoch: 5 - Train Loss: 4.8679 - Train Perplexity: 130.0419 - Valid Loss: 4.0393 - Valid Perplexity: 56.7840 - Time: 174.95s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.350597 GB
+Cached:   0.517578 GB
+Epoch: 6 - Train Loss: 4.7958 - Train Perplexity: 121.0016 - Valid Loss: 3.9845 - Valid Perplexity: 53.7589 - Time: 175.12s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.350597 GB
+Cached:   0.517578 GB
+Epoch: 7 - Train Loss: 4.7335 - Train Perplexity: 113.6913 - Valid Loss: 3.9454 - Valid Perplexity: 51.6978 - Time: 175.31s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.350597 GB
+Cached:   0.517578 GB
+Epoch: 8 - Train Loss: 4.6804 - Train Perplexity: 107.8132 - Valid Loss: 3.9133 - Valid Perplexity: 50.0661 - Time: 175.09s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.350597 GB
+Cached:   0.517578 GB
+Epoch: 9 - Train Loss: 4.6349 - Train Perplexity: 103.0132 - Valid Loss: 3.8875 - Valid Perplexity: 48.7892 - Time: 174.66s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.350597 GB
+Cached:   0.517578 GB
+Epoch: 10 - Train Loss: 4.5950 - Train Perplexity: 98.9881 - Valid Loss: 3.8643 - Valid Perplexity: 47.6710 - Time: 174.84s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.350597 GB
+Cached:   0.517578 GB
+Epoch: 11 - Train Loss: 4.5597 - Train Perplexity: 95.5507 - Valid Loss: 3.8455 - Valid Perplexity: 46.7815 - Time: 175.14s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.350597 GB
+Cached:   0.517578 GB
+Epoch: 12 - Train Loss: 4.5279 - Train Perplexity: 92.5666 - Valid Loss: 3.8286 - Valid Perplexity: 46.0002 - Time: 175.35s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.350597 GB
+Cached:   0.517578 GB
+Epoch: 13 - Train Loss: 4.4991 - Train Perplexity: 89.9369 - Valid Loss: 3.8134 - Valid Perplexity: 45.3034 - Time: 175.18s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.350597 GB
+Cached:   0.517578 GB
+Epoch: 14 - Train Loss: 4.4727 - Train Perplexity: 87.5948 - Valid Loss: 3.8002 - Valid Perplexity: 44.7091 - Time: 174.82s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.350597 GB
+Cached:   0.517578 GB
+Epoch: 15 - Train Loss: 4.4484 - Train Perplexity: 85.4884 - Valid Loss: 3.7876 - Valid Perplexity: 44.1515 - Time: 174.74s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.350597 GB
+Cached:   0.517578 GB
+Epoch: 16 - Train Loss: 4.4257 - Train Perplexity: 83.5743 - Valid Loss: 3.7763 - Valid Perplexity: 43.6543 - Time: 175.20s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.350597 GB
+Cached:   0.517578 GB
+Epoch: 17 - Train Loss: 4.4046 - Train Perplexity: 81.8259 - Valid Loss: 3.7663 - Valid Perplexity: 43.2205 - Time: 175.28s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.350597 GB
+Cached:   0.517578 GB
+Epoch: 18 - Train Loss: 4.3847 - Train Perplexity: 80.2177 - Valid Loss: 3.7571 - Valid Perplexity: 42.8249 - Time: 175.05s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.350597 GB
+Cached:   0.517578 GB
+Epoch: 19 - Train Loss: 4.3660 - Train Perplexity: 78.7315 - Valid Loss: 3.7490 - Valid Perplexity: 42.4786 - Time: 174.74s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.350597 GB
+Cached:   0.517578 GB
+Epoch: 20 - Train Loss: 4.3483 - Train Perplexity: 77.3490 - Valid Loss: 3.7422 - Valid Perplexity: 42.1921 - Time: 174.85s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.350597 GB
+Cached:   0.517578 GB
+Epoch: 21 - Train Loss: 4.3315 - Train Perplexity: 76.0617 - Valid Loss: 3.7342 - Valid Perplexity: 41.8560 - Time: 175.13s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.350597 GB
+Cached:   0.517578 GB
+Epoch: 22 - Train Loss: 4.3155 - Train Perplexity: 74.8536 - Valid Loss: 3.7279 - Valid Perplexity: 41.5900 - Time: 175.50s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.350597 GB
+Cached:   0.517578 GB
+Epoch: 23 - Train Loss: 4.3003 - Train Perplexity: 73.7184 - Valid Loss: 3.7225 - Valid Perplexity: 41.3685 - Time: 175.19s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.350597 GB
+Cached:   0.517578 GB
+Epoch: 24 - Train Loss: 4.2856 - Train Perplexity: 72.6482 - Valid Loss: 3.7165 - Valid Perplexity: 41.1200 - Time: 174.87s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.350597 GB
+Cached:   0.517578 GB
+Epoch: 25 - Train Loss: 4.2716 - Train Perplexity: 71.6369 - Valid Loss: 3.7116 - Valid Perplexity: 40.9176 - Time: 174.78s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.350597 GB
+Cached:   0.517578 GB
+Epoch: 26 - Train Loss: 4.2581 - Train Perplexity: 70.6771 - Valid Loss: 3.7075 - Valid Perplexity: 40.7509 - Time: 175.23s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.350597 GB
+Cached:   0.517578 GB
+Epoch: 27 - Train Loss: 4.2451 - Train Perplexity: 69.7662 - Valid Loss: 3.7031 - Valid Perplexity: 40.5713 - Time: 175.18s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.350597 GB
+Cached:   0.517578 GB
+Epoch: 28 - Train Loss: 4.2326 - Train Perplexity: 68.8981 - Valid Loss: 3.6995 - Valid Perplexity: 40.4269 - Time: 174.98s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.350597 GB
+Cached:   0.517578 GB
+Epoch: 29 - Train Loss: 4.2205 - Train Perplexity: 68.0694 - Valid Loss: 3.6965 - Valid Perplexity: 40.3044 - Time: 174.76s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.350597 GB
+Cached:   0.517578 GB
+Epoch: 30 - Train Loss: 4.2088 - Train Perplexity: 67.2785 - Valid Loss: 3.6931 - Valid Perplexity: 40.1686 - Time: 174.88s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.350597 GB
+Cached:   0.517578 GB
+Epoch: 31 - Train Loss: 4.1975 - Train Perplexity: 66.5219 - Valid Loss: 3.6905 - Valid Perplexity: 40.0645 - Time: 175.30s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.350597 GB
+Cached:   0.517578 GB
+Epoch: 32 - Train Loss: 4.1866 - Train Perplexity: 65.7957 - Valid Loss: 3.6874 - Valid Perplexity: 39.9426 - Time: 175.15s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.350597 GB
+Cached:   0.517578 GB
+Epoch: 33 - Train Loss: 4.1759 - Train Perplexity: 65.0996 - Valid Loss: 3.6860 - Valid Perplexity: 39.8858 - Time: 174.83s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.350597 GB
+Cached:   0.517578 GB
+Epoch: 34 - Train Loss: 4.1656 - Train Perplexity: 64.4284 - Valid Loss: 3.6837 - Valid Perplexity: 39.7918 - Time: 174.80s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.350597 GB
+Cached:   0.517578 GB
+Epoch: 35 - Train Loss: 4.1555 - Train Perplexity: 63.7814 - Valid Loss: 3.6823 - Valid Perplexity: 39.7383 - Time: 174.85s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.350597 GB
+Cached:   0.517578 GB
+Epoch: 36 - Train Loss: 4.1456 - Train Perplexity: 63.1567 - Valid Loss: 3.6791 - Valid Perplexity: 39.6094 - Time: 175.45s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.350597 GB
+Cached:   0.517578 GB
+Epoch: 37 - Train Loss: 4.1361 - Train Perplexity: 62.5561 - Valid Loss: 3.6786 - Valid Perplexity: 39.5913 - Time: 175.53s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.350597 GB
+Cached:   0.517578 GB
+Epoch: 38 - Train Loss: 4.1267 - Train Perplexity: 61.9742 - Valid Loss: 3.6768 - Valid Perplexity: 39.5207 - Time: 175.11s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.350597 GB
+Cached:   0.517578 GB
+Epoch: 39 - Train Loss: 4.1176 - Train Perplexity: 61.4103 - Valid Loss: 3.6763 - Valid Perplexity: 39.4997 - Time: 175.06s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.350597 GB
+Cached:   0.517578 GB
+Epoch: 40 - Train Loss: 4.1087 - Train Perplexity: 60.8649 - Valid Loss: 3.6757 - Valid Perplexity: 39.4755 - Time: 174.95s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.350597 GB
+Cached:   0.517578 GB
+Epoch: 41 - Train Loss: 4.0999 - Train Perplexity: 60.3354 - Valid Loss: 3.6744 - Valid Perplexity: 39.4258 - Time: 175.27s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.350597 GB
+Cached:   0.517578 GB
+Epoch: 42 - Train Loss: 4.0914 - Train Perplexity: 59.8218 - Valid Loss: 3.6740 - Valid Perplexity: 39.4092 - Time: 175.19s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.350597 GB
+Cached:   0.517578 GB
+Epoch: 43 - Train Loss: 4.0830 - Train Perplexity: 59.3232 - Valid Loss: 3.6733 - Valid Perplexity: 39.3803 - Time: 175.03s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.332687 GB
+Cached:   0.744141 GB
+Epoch: 1 - Train Loss: 5.4083 - Train Perplexity: 223.2438 - Valid Loss: 4.2952 - Valid Perplexity: 73.3435 - Time: 125.09s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.332687 GB
+Cached:   0.724609 GB
+Epoch: 2 - Train Loss: 5.0834 - Train Perplexity: 161.3243 - Valid Loss: 4.1585 - Valid Perplexity: 63.9771 - Time: 124.73s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.332687 GB
+Cached:   0.724609 GB
+Epoch: 3 - Train Loss: 4.9486 - Train Perplexity: 140.9799 - Valid Loss: 4.0835 - Valid Perplexity: 59.3539 - Time: 124.69s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.332687 GB
+Cached:   0.724609 GB
+Epoch: 4 - Train Loss: 4.8509 - Train Perplexity: 127.8607 - Valid Loss: 4.0233 - Valid Perplexity: 55.8874 - Time: 124.77s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.332687 GB
+Cached:   0.724609 GB
+Epoch: 5 - Train Loss: 4.7730 - Train Perplexity: 118.2751 - Valid Loss: 3.9701 - Valid Perplexity: 52.9882 - Time: 124.70s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.332687 GB
+Cached:   0.724609 GB
+Epoch: 6 - Train Loss: 4.7092 - Train Perplexity: 110.9621 - Valid Loss: 3.9318 - Valid Perplexity: 50.9993 - Time: 124.87s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.332687 GB
+Cached:   0.724609 GB
+Epoch: 7 - Train Loss: 4.6559 - Train Perplexity: 105.2057 - Valid Loss: 3.8997 - Valid Perplexity: 49.3886 - Time: 125.43s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.332687 GB
+Cached:   0.724609 GB
+Epoch: 8 - Train Loss: 4.6107 - Train Perplexity: 100.5523 - Valid Loss: 3.8756 - Valid Perplexity: 48.2116 - Time: 125.20s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.332687 GB
+Cached:   0.724609 GB
+Epoch: 9 - Train Loss: 4.5715 - Train Perplexity: 96.6875 - Valid Loss: 3.8547 - Valid Perplexity: 47.2141 - Time: 124.75s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.332687 GB
+Cached:   0.724609 GB
+Epoch: 10 - Train Loss: 4.5369 - Train Perplexity: 93.3998 - Valid Loss: 3.8367 - Valid Perplexity: 46.3700 - Time: 124.84s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.332687 GB
+Cached:   0.724609 GB
+Epoch: 11 - Train Loss: 4.5059 - Train Perplexity: 90.5538 - Valid Loss: 3.8207 - Valid Perplexity: 45.6352 - Time: 124.99s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.332687 GB
+Cached:   0.724609 GB
+Epoch: 12 - Train Loss: 4.4780 - Train Perplexity: 88.0549 - Valid Loss: 3.8056 - Valid Perplexity: 44.9520 - Time: 125.53s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.332687 GB
+Cached:   0.724609 GB
+Epoch: 13 - Train Loss: 4.4524 - Train Perplexity: 85.8318 - Valid Loss: 3.7935 - Valid Perplexity: 44.4115 - Time: 124.88s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.332687 GB
+Cached:   0.724609 GB
+Epoch: 14 - Train Loss: 4.4289 - Train Perplexity: 83.8363 - Valid Loss: 3.7817 - Valid Perplexity: 43.8901 - Time: 124.96s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.332687 GB
+Cached:   0.724609 GB
+Epoch: 15 - Train Loss: 4.4071 - Train Perplexity: 82.0329 - Valid Loss: 3.7726 - Valid Perplexity: 43.4922 - Time: 124.72s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.332687 GB
+Cached:   0.724609 GB
+Epoch: 16 - Train Loss: 4.3868 - Train Perplexity: 80.3859 - Valid Loss: 3.7637 - Valid Perplexity: 43.1058 - Time: 124.85s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.332687 GB
+Cached:   0.724609 GB
+Epoch: 17 - Train Loss: 4.3679 - Train Perplexity: 78.8775 - Valid Loss: 3.7561 - Valid Perplexity: 42.7810 - Time: 125.38s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.332687 GB
+Cached:   0.724609 GB
+Epoch: 18 - Train Loss: 4.3501 - Train Perplexity: 77.4845 - Valid Loss: 3.7485 - Valid Perplexity: 42.4591 - Time: 125.28s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.332687 GB
+Cached:   0.724609 GB
+Epoch: 19 - Train Loss: 4.3333 - Train Perplexity: 76.1937 - Valid Loss: 3.7411 - Valid Perplexity: 42.1442 - Time: 125.13s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.332687 GB
+Cached:   0.724609 GB
+Epoch: 20 - Train Loss: 4.3174 - Train Perplexity: 74.9902 - Valid Loss: 3.7339 - Valid Perplexity: 41.8402 - Time: 124.99s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.332687 GB
+Cached:   0.724609 GB
+Epoch: 21 - Train Loss: 4.3022 - Train Perplexity: 73.8629 - Valid Loss: 3.7276 - Valid Perplexity: 41.5775 - Time: 124.82s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.332687 GB
+Cached:   0.724609 GB
+Epoch: 22 - Train Loss: 4.2878 - Train Perplexity: 72.8029 - Valid Loss: 3.7214 - Valid Perplexity: 41.3241 - Time: 125.39s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.332687 GB
+Cached:   0.724609 GB
+Epoch: 23 - Train Loss: 4.2739 - Train Perplexity: 71.8044 - Valid Loss: 3.7152 - Valid Perplexity: 41.0673 - Time: 125.17s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.332687 GB
+Cached:   0.724609 GB
+Epoch: 24 - Train Loss: 4.2607 - Train Perplexity: 70.8593 - Valid Loss: 3.7104 - Valid Perplexity: 40.8717 - Time: 124.98s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.332687 GB
+Cached:   0.724609 GB
+Epoch: 25 - Train Loss: 4.2480 - Train Perplexity: 69.9646 - Valid Loss: 3.7062 - Valid Perplexity: 40.6977 - Time: 124.86s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.332687 GB
+Cached:   0.724609 GB
+Epoch: 26 - Train Loss: 4.2358 - Train Perplexity: 69.1138 - Valid Loss: 3.7021 - Valid Perplexity: 40.5335 - Time: 124.90s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.332687 GB
+Cached:   0.724609 GB
+Epoch: 27 - Train Loss: 4.2240 - Train Perplexity: 68.3042 - Valid Loss: 3.6982 - Valid Perplexity: 40.3747 - Time: 125.53s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.332687 GB
+Cached:   0.724609 GB
+Epoch: 28 - Train Loss: 4.2126 - Train Perplexity: 67.5322 - Valid Loss: 3.6961 - Valid Perplexity: 40.2881 - Time: 125.16s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.332687 GB
+Cached:   0.724609 GB
+Epoch: 29 - Train Loss: 4.2016 - Train Perplexity: 66.7945 - Valid Loss: 3.6928 - Valid Perplexity: 40.1560 - Time: 124.86s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.332687 GB
+Cached:   0.724609 GB
+Epoch: 30 - Train Loss: 4.1910 - Train Perplexity: 66.0884 - Valid Loss: 3.6897 - Valid Perplexity: 40.0335 - Time: 124.76s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.332687 GB
+Cached:   0.724609 GB
+Epoch: 31 - Train Loss: 4.1807 - Train Perplexity: 65.4106 - Valid Loss: 3.6876 - Valid Perplexity: 39.9499 - Time: 124.89s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.332687 GB
+Cached:   0.724609 GB
+Epoch: 32 - Train Loss: 4.1707 - Train Perplexity: 64.7605 - Valid Loss: 3.6854 - Valid Perplexity: 39.8601 - Time: 125.38s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.332687 GB
+Cached:   0.724609 GB
+Epoch: 33 - Train Loss: 4.1610 - Train Perplexity: 64.1347 - Valid Loss: 3.6834 - Valid Perplexity: 39.7831 - Time: 124.97s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.332687 GB
+Cached:   0.724609 GB
+Epoch: 34 - Train Loss: 4.1516 - Train Perplexity: 63.5333 - Valid Loss: 3.6814 - Valid Perplexity: 39.7028 - Time: 125.07s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.332687 GB
+Cached:   0.724609 GB
+Epoch: 35 - Train Loss: 4.1424 - Train Perplexity: 62.9533 - Valid Loss: 3.6799 - Valid Perplexity: 39.6422 - Time: 125.05s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.332687 GB
+Cached:   0.724609 GB
+Epoch: 36 - Train Loss: 4.1335 - Train Perplexity: 62.3931 - Valid Loss: 3.6780 - Valid Perplexity: 39.5667 - Time: 124.88s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.332687 GB
+Cached:   0.724609 GB
+Epoch: 37 - Train Loss: 4.1247 - Train Perplexity: 61.8519 - Valid Loss: 3.6766 - Valid Perplexity: 39.5134 - Time: 125.17s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.332687 GB
+Cached:   0.724609 GB
+Epoch: 38 - Train Loss: 4.1162 - Train Perplexity: 61.3282 - Valid Loss: 3.6755 - Valid Perplexity: 39.4693 - Time: 125.17s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.332687 GB
+Cached:   0.724609 GB
+Epoch: 39 - Train Loss: 4.1079 - Train Perplexity: 60.8219 - Valid Loss: 3.6741 - Valid Perplexity: 39.4140 - Time: 125.07s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.332687 GB
+Cached:   0.724609 GB
+Epoch: 40 - Train Loss: 4.0998 - Train Perplexity: 60.3304 - Valid Loss: 3.6729 - Valid Perplexity: 39.3673 - Time: 124.85s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.318636 GB
+Cached:   0.716797 GB
+Epoch: 1 - Train Loss: 5.3628 - Train Perplexity: 213.3311 - Valid Loss: 4.2582 - Valid Perplexity: 70.6815 - Time: 113.01s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.318636 GB
+Cached:   0.718750 GB
+Epoch: 2 - Train Loss: 5.0352 - Train Perplexity: 153.7344 - Valid Loss: 4.1223 - Valid Perplexity: 61.7040 - Time: 113.38s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.318636 GB
+Cached:   0.718750 GB
+Epoch: 3 - Train Loss: 4.8925 - Train Perplexity: 133.2832 - Valid Loss: 4.0332 - Valid Perplexity: 56.4429 - Time: 113.16s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.318636 GB
+Cached:   0.718750 GB
+Epoch: 4 - Train Loss: 4.7883 - Train Perplexity: 120.0973 - Valid Loss: 3.9725 - Valid Perplexity: 53.1150 - Time: 113.02s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.318636 GB
+Cached:   0.718750 GB
+Epoch: 5 - Train Loss: 4.7078 - Train Perplexity: 110.8080 - Valid Loss: 3.9250 - Valid Perplexity: 50.6541 - Time: 113.02s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.318636 GB
+Cached:   0.718750 GB
+Epoch: 6 - Train Loss: 4.6438 - Train Perplexity: 103.9354 - Valid Loss: 3.8888 - Valid Perplexity: 48.8504 - Time: 112.91s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.318636 GB
+Cached:   0.718750 GB
+Epoch: 7 - Train Loss: 4.5914 - Train Perplexity: 98.6305 - Valid Loss: 3.8588 - Valid Perplexity: 47.4088 - Time: 113.35s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.318636 GB
+Cached:   0.718750 GB
+Epoch: 8 - Train Loss: 4.5474 - Train Perplexity: 94.3883 - Valid Loss: 3.8360 - Valid Perplexity: 46.3407 - Time: 113.19s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.318636 GB
+Cached:   0.718750 GB
+Epoch: 9 - Train Loss: 4.5096 - Train Perplexity: 90.8882 - Valid Loss: 3.8166 - Valid Perplexity: 45.4515 - Time: 113.07s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.318636 GB
+Cached:   0.718750 GB
+Epoch: 10 - Train Loss: 4.4765 - Train Perplexity: 87.9302 - Valid Loss: 3.8010 - Valid Perplexity: 44.7478 - Time: 113.09s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.318636 GB
+Cached:   0.718750 GB
+Epoch: 11 - Train Loss: 4.4471 - Train Perplexity: 85.3812 - Valid Loss: 3.7877 - Valid Perplexity: 44.1548 - Time: 112.95s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.318636 GB
+Cached:   0.718750 GB
+Epoch: 12 - Train Loss: 4.4206 - Train Perplexity: 83.1500 - Valid Loss: 3.7752 - Valid Perplexity: 43.6062 - Time: 113.52s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.318636 GB
+Cached:   0.718750 GB
+Epoch: 13 - Train Loss: 4.3966 - Train Perplexity: 81.1714 - Valid Loss: 3.7633 - Valid Perplexity: 43.0911 - Time: 113.37s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.318636 GB
+Cached:   0.718750 GB
+Epoch: 14 - Train Loss: 4.3745 - Train Perplexity: 79.3996 - Valid Loss: 3.7530 - Valid Perplexity: 42.6483 - Time: 113.03s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.318636 GB
+Cached:   0.718750 GB
+Epoch: 15 - Train Loss: 4.3541 - Train Perplexity: 77.7975 - Valid Loss: 3.7439 - Valid Perplexity: 42.2620 - Time: 113.02s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.318636 GB
+Cached:   0.718750 GB
+Epoch: 16 - Train Loss: 4.3352 - Train Perplexity: 76.3371 - Valid Loss: 3.7356 - Valid Perplexity: 41.9139 - Time: 112.99s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.318636 GB
+Cached:   0.718750 GB
+Epoch: 17 - Train Loss: 4.3174 - Train Perplexity: 74.9959 - Valid Loss: 3.7281 - Valid Perplexity: 41.6004 - Time: 113.65s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.318636 GB
+Cached:   0.718750 GB
+Epoch: 18 - Train Loss: 4.3008 - Train Perplexity: 73.7570 - Valid Loss: 3.7214 - Valid Perplexity: 41.3226 - Time: 113.31s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.318636 GB
+Cached:   0.718750 GB
+Epoch: 19 - Train Loss: 4.2851 - Train Perplexity: 72.6073 - Valid Loss: 3.7153 - Valid Perplexity: 41.0696 - Time: 113.06s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.318636 GB
+Cached:   0.718750 GB
+Epoch: 20 - Train Loss: 4.2702 - Train Perplexity: 71.5358 - Valid Loss: 3.7094 - Valid Perplexity: 40.8303 - Time: 113.03s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.318636 GB
+Cached:   0.718750 GB
+Epoch: 21 - Train Loss: 4.2561 - Train Perplexity: 70.5332 - Valid Loss: 3.7041 - Valid Perplexity: 40.6138 - Time: 112.96s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.318636 GB
+Cached:   0.718750 GB
+Epoch: 22 - Train Loss: 4.2426 - Train Perplexity: 69.5907 - Valid Loss: 3.6992 - Valid Perplexity: 40.4148 - Time: 113.41s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.318636 GB
+Cached:   0.718750 GB
+Epoch: 23 - Train Loss: 4.2298 - Train Perplexity: 68.7022 - Valid Loss: 3.6947 - Valid Perplexity: 40.2338 - Time: 113.40s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.318636 GB
+Cached:   0.718750 GB
+Epoch: 24 - Train Loss: 4.2175 - Train Perplexity: 67.8624 - Valid Loss: 3.6907 - Valid Perplexity: 40.0740 - Time: 113.12s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.318636 GB
+Cached:   0.718750 GB
+Epoch: 25 - Train Loss: 4.2057 - Train Perplexity: 67.0664 - Valid Loss: 3.6872 - Valid Perplexity: 39.9318 - Time: 113.09s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.318636 GB
+Cached:   0.718750 GB
+Epoch: 26 - Train Loss: 4.1944 - Train Perplexity: 66.3108 - Valid Loss: 3.6837 - Valid Perplexity: 39.7944 - Time: 113.06s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.318636 GB
+Cached:   0.718750 GB
+Epoch: 27 - Train Loss: 4.1834 - Train Perplexity: 65.5912 - Valid Loss: 3.6805 - Valid Perplexity: 39.6672 - Time: 113.34s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.318636 GB
+Cached:   0.718750 GB
+Epoch: 28 - Train Loss: 4.1729 - Train Perplexity: 64.9040 - Valid Loss: 3.6780 - Valid Perplexity: 39.5688 - Time: 113.21s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.318636 GB
+Cached:   0.718750 GB
+Epoch: 29 - Train Loss: 4.1627 - Train Perplexity: 64.2476 - Valid Loss: 3.6756 - Valid Perplexity: 39.4721 - Time: 113.03s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.318636 GB
+Cached:   0.718750 GB
+Epoch: 30 - Train Loss: 4.1529 - Train Perplexity: 63.6194 - Valid Loss: 3.6735 - Valid Perplexity: 39.3908 - Time: 112.75s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.318636 GB
+Cached:   0.718750 GB
+Epoch: 31 - Train Loss: 4.1434 - Train Perplexity: 63.0157 - Valid Loss: 3.6715 - Valid Perplexity: 39.3116 - Time: 112.86s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.318636 GB
+Cached:   0.718750 GB
+Epoch: 32 - Train Loss: 4.1341 - Train Perplexity: 62.4364 - Valid Loss: 3.6696 - Valid Perplexity: 39.2377 - Time: 113.43s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.318636 GB
+Cached:   0.718750 GB
+Epoch: 33 - Train Loss: 4.1252 - Train Perplexity: 61.8794 - Valid Loss: 3.6677 - Valid Perplexity: 39.1624 - Time: 113.41s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.318636 GB
+Cached:   0.718750 GB
+Epoch: 34 - Train Loss: 4.1165 - Train Perplexity: 61.3429 - Valid Loss: 3.6659 - Valid Perplexity: 39.0904 - Time: 113.12s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.318636 GB
+Cached:   0.718750 GB
+Epoch: 35 - Train Loss: 4.1080 - Train Perplexity: 60.8248 - Valid Loss: 3.6646 - Valid Perplexity: 39.0402 - Time: 113.00s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.318636 GB
+Cached:   0.718750 GB
+Epoch: 36 - Train Loss: 4.0997 - Train Perplexity: 60.3243 - Valid Loss: 3.6632 - Valid Perplexity: 38.9850 - Time: 112.77s
+Using CUDA: NVIDIA GeForce RTX 2080 Ti
+Memory Usage:
+Allocated: 0.318636 GB
+Cached:   0.718750 GB
+Epoch: 37 - Train Loss: 4.0917 - Train Perplexity: 59.8413 - Valid Loss: 3.6623 - Valid Perplexity: 38.9507 - Time: 113.49s

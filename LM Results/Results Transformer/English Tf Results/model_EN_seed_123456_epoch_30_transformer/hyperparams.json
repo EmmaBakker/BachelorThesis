@@ -1,0 +1,1 @@
+{"embed": {"n_embeddings": 10218, "embedding_dim": 400, "sparse": false, "padding_idx": 0}, "tf": {"in_size": 400, "fc_size": 1024, "n_layers": 2, "h": 4, "max_len": 102}, "cuda": true, "lr": 0.0001}
